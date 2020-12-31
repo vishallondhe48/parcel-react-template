@@ -1,4 +1,4 @@
-# parcel-react-template-1
+# parcel-react-template
 
 Parcel-react-template.
 
